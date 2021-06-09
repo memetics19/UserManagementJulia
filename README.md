@@ -14,12 +14,12 @@ A user authentication API using Julia, Bukdu.jl, HTTP.jl.
 
 4. Instantiate the packages
 
-          `instantiate`
+          instantiate
 
 5. Run the server
 
-          `julia --project -i server.jl`
+          julia --project -i server.jl
 
 6. Stop the server 
 
-           `julia --project -i stop_server.jl`
+           julia --project -i stop_server.jl
