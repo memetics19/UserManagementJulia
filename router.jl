@@ -1,8 +1,8 @@
 using Bukdu
 import Bukdu.Actions: index, show, new, edit, create, delete, update, HTTP
 
-include("UserAuth/UserAuth.jl")
-include("db/config.jl")
+include("src/UserAuth/UserAuth.jl")
+include("src/db/config.jl")
 
 
 routes() do 

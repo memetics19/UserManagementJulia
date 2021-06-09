@@ -18,4 +18,8 @@ A user authentication API using Julia, Bukdu.jl, HTTP.jl.
 
 5. Run the server
 
-          `julia --project -i server.jl``
+          `julia --project -i server.jl`
+
+6. Stop the server 
+
+           `julia --project -i stop_server.jl`
