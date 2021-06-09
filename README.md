@@ -23,3 +23,7 @@ A user authentication API using Julia, Bukdu.jl, HTTP.jl.
 6. Stop the server 
 
            julia --project -i stop_server.jl
+
+# EndPoints 
+
+1.  `/api/token`: POST Method
