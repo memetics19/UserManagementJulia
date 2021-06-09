@@ -10,12 +10,12 @@ A user authentication API using Julia, Bukdu.jl, HTTP.jl.
 
 3. Activate the environment 
 
-open in the Pkg mode `]`   and `activate .`
+  open in the Pkg mode `]`   and `activate .`
 
 4. Instantiate the packages
 
-`instantiate`
+  `instantiate`
 
 5. Run the server
 
-`julia --project -i server.jl``
+  `julia --project -i server.jl``
